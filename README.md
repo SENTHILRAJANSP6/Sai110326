@@ -10,7 +10,6 @@ OSM
 This feature adds login functionality to the application.
 
 Developer: Senthil
-
-Date: Lab Practice 2 & 3
+Date: Lab Practice 2
 
 OSM
